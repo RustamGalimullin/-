@@ -1,0 +1,15 @@
+C:\Users\LIZA\Desktop\Рустам учеба\домашнее задание к 3 семинару\Д.З\bin\Debug\net6.0\Д.З.exe
+C:\Users\LIZA\Desktop\Рустам учеба\домашнее задание к 3 семинару\Д.З\bin\Debug\net6.0\Д.З.deps.json
+C:\Users\LIZA\Desktop\Рустам учеба\домашнее задание к 3 семинару\Д.З\bin\Debug\net6.0\Д.З.runtimeconfig.json
+C:\Users\LIZA\Desktop\Рустам учеба\домашнее задание к 3 семинару\Д.З\bin\Debug\net6.0\Д.З.dll
+C:\Users\LIZA\Desktop\Рустам учеба\домашнее задание к 3 семинару\Д.З\bin\Debug\net6.0\Д.З.pdb
+C:\Users\LIZA\Desktop\Рустам учеба\домашнее задание к 3 семинару\Д.З\obj\Debug\net6.0\Д.З.csproj.AssemblyReference.cache
+C:\Users\LIZA\Desktop\Рустам учеба\домашнее задание к 3 семинару\Д.З\obj\Debug\net6.0\Д.З.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIZA\Desktop\Рустам учеба\домашнее задание к 3 семинару\Д.З\obj\Debug\net6.0\Д.З.AssemblyInfoInputs.cache
+C:\Users\LIZA\Desktop\Рустам учеба\домашнее задание к 3 семинару\Д.З\obj\Debug\net6.0\Д.З.AssemblyInfo.cs
+C:\Users\LIZA\Desktop\Рустам учеба\домашнее задание к 3 семинару\Д.З\obj\Debug\net6.0\Д.З.csproj.CoreCompileInputs.cache
+C:\Users\LIZA\Desktop\Рустам учеба\домашнее задание к 3 семинару\Д.З\obj\Debug\net6.0\Д.З.dll
+C:\Users\LIZA\Desktop\Рустам учеба\домашнее задание к 3 семинару\Д.З\obj\Debug\net6.0\refint\Д.З.dll
+C:\Users\LIZA\Desktop\Рустам учеба\домашнее задание к 3 семинару\Д.З\obj\Debug\net6.0\Д.З.pdb
+C:\Users\LIZA\Desktop\Рустам учеба\домашнее задание к 3 семинару\Д.З\obj\Debug\net6.0\Д.З.genruntimeconfig.cache
+C:\Users\LIZA\Desktop\Рустам учеба\домашнее задание к 3 семинару\Д.З\obj\Debug\net6.0\ref\Д.З.dll
